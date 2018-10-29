@@ -8,4 +8,4 @@
 *  setimeout和promise的执行的先后顺序
 *  一个数组，取n个数，相加为sum
 *  vue怎么创建一个弹框组件
-* 
+  
